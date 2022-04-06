@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World, with version 1.0.1!";
+echo "Hello World, with version 1.0.2!";
